@@ -15,7 +15,7 @@ Click the **Fork** button at the top-right of this page to create your own copy.
 git clone https://github.com/Aryanromanreigns/ANN-classisication.git
 cd ANN-classisication
 3️⃣ Create a New Branch
-bash
+```bash
 git checkout -b feature-name
 Use a descriptive branch name like improve-preprocessing, add-accuracy-metrics, or fix-readme.
 
@@ -27,10 +27,10 @@ Keep the code modular, clean, and well-commented.
 Test your changes before committing.
 
 5️⃣ Commit Your Changes
-bash
+```bash
 git commit -m "Add: short description of your change"
 6️⃣ Push Changes
-bash
+```bash
 git push origin feature-name
 7️⃣ Open a Pull Request (PR)
 Go to your fork on GitHub.
