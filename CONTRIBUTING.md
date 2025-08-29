@@ -16,7 +16,6 @@ git clone https://github.com/Aryanromanreigns/ANN-classisication.git
 cd ANN-classisication
 3️⃣ Create a New Branch
 bash
-Copy code
 git checkout -b feature-name
 Use a descriptive branch name like improve-preprocessing, add-accuracy-metrics, or fix-readme.
 
@@ -29,11 +28,9 @@ Test your changes before committing.
 
 5️⃣ Commit Your Changes
 bash
-Copy code
 git commit -m "Add: short description of your change"
 6️⃣ Push Changes
 bash
-Copy code
 git push origin feature-name
 7️⃣ Open a Pull Request (PR)
 Go to your fork on GitHub.
